@@ -1,3 +1,6 @@
 Istilah-istilah di git
 --------------------------
 1. Repo -> folder project
+2. Branch ->
+3. Commit ->
+4. Merge ->
