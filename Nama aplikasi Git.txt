@@ -1,6 +1,7 @@
 Nama-nama aplikasi git
 
+- git1
 - GIT
-- GitLab
+- gitgit
 - Bitbucket
-- etc
+- etcs
