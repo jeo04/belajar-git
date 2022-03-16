@@ -2,5 +2,7 @@ Nama-nama aplikasi git
 
 - GIT
 - GitLab
+- gitgit
 - Bitbucket
 - etc
+- tesst git
